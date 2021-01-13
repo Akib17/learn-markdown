@@ -14,10 +14,10 @@
 
 <!-- Italic -->
 
-_This text will be italic_
+_This text will be italic_ </br>
 _This will also be italic_
 
 <!-- Strong -->
 
-**This text will be bold**
+**This text will be bold** </br>
 **This will also be bold**
