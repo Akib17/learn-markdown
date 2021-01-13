@@ -16,4 +16,8 @@
 
 _This text will be italic_
 _This will also be italic_
-    
+
+<!-- Strong -->
+
+**This text will be bold**
+**This will also be bold**
